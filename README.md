@@ -7,12 +7,12 @@ This project aims to analyze and extract valuable insights from the csv data of 
 
 
 
-### **Objectives**
 
 
 
 
-### **Tool used**:
+
+### ** Key Objectives**
 
 Pandas
 
@@ -27,7 +27,11 @@ Matplotlib and seaborn
 
 Excel
 
-### **Methodology** 🛠️
+## **Project Deliverables **
+
+
+
+**Objectives** 🛠️
 
 1. Understanding the Data Structure:
 
@@ -37,12 +41,16 @@ Before conversion, the structure and schema of the JSON data were carefully revi
 
 During the conversion, attention was paid to handling any data transformation or cleaning required. This included formatting dates, handling missing values, and ensuring data consistency between JSON and CSV representations.
 
-3. data visualization: With the  help of SQL Queries to find out the Required data from CSV file  Using PowerBI tools,  Matplotlib and seaborn libraries are used for 
-                                 visualization purposes.
+3.data visualization:
+
+With the  help of SQL Queries to find out the Required data from CSV file  Using PowerBI tools,  Matplotlib and seaborn libraries are used for 
+visualization purposes.
 
 
 
 ###  Content 📋
+
+
 
 
 
