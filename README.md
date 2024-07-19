@@ -4,3 +4,24 @@
 
 ### **overview**
 This project aims to analyze and extract valuable insights from the csv data of world eletricity Distribution. These insights will help clients make informed decisions on key aspects to consider how countries serves electricity with population density and With Different Income level . This project focuses on the development of a modern electricity distribution system aimed at improving reliability, efficiency, and sustainability. The system is designed to meet the growing demands of residential, commercial, and industrial consumers in the designated region.
+
+
+
+### **Objectives**
+
+
+
+
+### **Tool used**:
+
+Pandas
+
+NumPy
+
+SQL
+
+POWER BI
+
+Matplotlib and seaborn
+
+Excel
