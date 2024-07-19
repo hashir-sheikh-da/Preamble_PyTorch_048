@@ -18,6 +18,7 @@ Pandas
 
 NumPy
 
+
 SQL
 
 POWER BI
@@ -25,3 +26,23 @@ POWER BI
 Matplotlib and seaborn
 
 Excel
+
+### **Methodology** 🛠️
+
+1. Understanding the Data Structure:
+
+Before conversion, the structure and schema of the JSON data were carefully reviewed. This included identifying key fields, nested objects, and any complex structures that needed to be flattened.For this project, we opted to use Python and its json and csv libraries due to their robustness and ease of use in handling JSON and CSV data.
+
+2.Handling Data Transformation and Cleaning:
+
+During the conversion, attention was paid to handling any data transformation or cleaning required. This included formatting dates, handling missing values, and ensuring data consistency between JSON and CSV representations.
+
+3. data visualization: With the  help of SQL Queries to find out the Required data from CSV file  Using PowerBI tools,  Matplotlib and seaborn libraries are used for 
+                                 visualization purposes.
+
+
+
+###  Content 📋
+
+
+
