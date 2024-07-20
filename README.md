@@ -122,7 +122,7 @@ df = load_json_data(json_data_file)
 
 ```
 
-### 44. Data Analysis
+### 4. Data Analysis
 After collecting and cleaning the data, we proceeded to analyze it to extract meaningful insights. The primary focus of our analysis was to understand global electricity trends and disparities across regions and income groups. Here are the key steps and techniques we used in our data analysis:
 
 ### Descriptive Statistics:
@@ -141,10 +141,6 @@ Here, I'm including the document with the detailed insights we derived from our 
 
 [Detailed insights]()
 
-Additionally, here are some graphs that we plotted to give you more visual insights. These graphs complement the visual insights available in the dashboard and provide a deeper understanding of the data.
-
-[Graphs]()
-
 ### 6. Dashboard Creation
 To make our analysis accessible and user-friendly, we created an interactive Power BI dashboard. The dashboard provides a comprehensive view of global electricity trends, production, and access. Key features of the dashboard include:
 
@@ -155,11 +151,11 @@ To make our analysis accessible and user-friendly, we created an interactive Pow
 
 Here is a screenshot of the dashboard:
 
-[Dashboard]()
+![Dashboard](https://github.com/hashir-sheikh-da/Preamble_PyTorch_048/blob/main/Data_PowerBI_Assets/dashboard_world_electricity_analysis.png)
 
 The dashboard is designed to be an invaluable tool for stakeholders, allowing them to explore the data dynamically and make informed decisions.
 
-[Link to Interactive Dashboard]()
+[Link to Interactive Dashboard](https://github.com/hashir-sheikh-da/Preamble_PyTorch_048/blob/main/Data_PowerBI_Assets/dashboard_world_electricity_analysis.pbix)
 
 
 ### 7. Conclusion
