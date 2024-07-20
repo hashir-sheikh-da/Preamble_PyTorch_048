@@ -12,7 +12,7 @@ This project focuses on the analysis of global electricity production, transmiss
 - 🔍 Data Collection: Aggregating data from multiple CSV files, which include details about electricity access (rural, urban, and total), electricity transmission and distribution losses, and electricity production from nuclear, oil, and renewable sources.
 - 🛠️ Data Cleaning: Processing the data to handle missing values, ensure consistency, and integrate metadata for comprehensive analysis.
 - 📊 Data Analysis: Utilizing Python for preprocessing and SQL for querying to generate meaningful insights. This stage involves aggregating data, calculating proportions, and summarizing key metrics.
- 📈 Visualization: Creating an interactive Power BI dashboard that presents the insights through various visualizations such as line charts, grouped bar charts, stacked bar charts, pie charts, donut charts, and filled maps. Each visualization aims to highlight different aspects of the data, making it easier to understand and interpret the findings.
+- 📈 Visualization: Creating an interactive Power BI dashboard that presents the insights through various visualizations such as line charts, grouped bar charts, stacked bar charts, pie charts, donut charts, and filled maps. Each visualization aims to highlight different aspects of the data, making it easier to understand and interpret the findings.
 - 📃 Reporting: Summarizing the analysis and insights in a detailed report, which includes PowerPoint presentations and interactive dashboard views, to communicate the findings effectively to stakeholders.
 
 ## Project Deliverables:
