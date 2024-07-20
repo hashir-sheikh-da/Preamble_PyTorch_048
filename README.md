@@ -139,7 +139,7 @@ After collecting and cleaning the data, we proceeded to analyze it to extract me
 - Source Analysis: We analyzed the proportions of electricity production from nuclear, oil, and renewable sources to understand the energy mix of different countries and regions.
 Here, I'm including the document with the detailed insights we derived from our data analysis.
 
-[Detailed insights]()
+[Detailed Insights](https://github.com/hashir-sheikh-da/Preamble_PyTorch_048/blob/main/Data_Analysis_Report/world_electricity_analysis.pdf)
 
 ### 6. Dashboard Creation
 To make our analysis accessible and user-friendly, we created an interactive Power BI dashboard. The dashboard provides a comprehensive view of global electricity trends, production, and access. Key features of the dashboard include:
