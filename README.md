@@ -12,7 +12,7 @@ This project focuses on the analysis of global electricity production, transmiss
 - 🔍 Data Collection: Aggregating data from multiple CSV files, which include details about electricity access (rural, urban, and total), electricity transmission and distribution losses, and electricity production from nuclear, oil, and renewable sources.
 - 🛠️ Data Cleaning: Processing the data to handle missing values, ensure consistency, and integrate metadata for comprehensive analysis.
 - 📊 Data Analysis: Utilizing Python for preprocessing and SQL for querying to generate meaningful insights. This stage involves aggregating data, calculating proportions, and summarizing key metrics.
- 📈 Visualization: Creating an interactive Power BI dashboard that presents the insights through various visualizations such as line charts, grouped bar charts, stacked bar charts, pie charts, donut charts, and filled maps. Each visualization aims to highlight different aspects of the data, making it easier to understand and interpret the findings.
+- 📈 Visualization: Creating an interactive Power BI dashboard that presents the insights through various visualizations such as line charts, grouped bar charts, stacked bar charts, pie charts, donut charts, and filled maps. Each visualization aims to highlight different aspects of the data, making it easier to understand and interpret the findings.
 - 📃 Reporting: Summarizing the analysis and insights in a detailed report, which includes PowerPoint presentations and interactive dashboard views, to communicate the findings effectively to stakeholders.
 
 ## Project Deliverables:
@@ -139,7 +139,7 @@ After collecting and cleaning the data, we proceeded to analyze it to extract me
 - Source Analysis: We analyzed the proportions of electricity production from nuclear, oil, and renewable sources to understand the energy mix of different countries and regions.
 Here, I'm including the document with the detailed insights we derived from our data analysis.
 
-[Detailed insights]()
+[Detailed Insights](https://github.com/hashir-sheikh-da/Preamble_PyTorch_048/blob/main/Data_Analysis_Report/world_electricity_analysis.pdf)
 
 ### 6. Dashboard Creation
 To make our analysis accessible and user-friendly, we created an interactive Power BI dashboard. The dashboard provides a comprehensive view of global electricity trends, production, and access. Key features of the dashboard include:
